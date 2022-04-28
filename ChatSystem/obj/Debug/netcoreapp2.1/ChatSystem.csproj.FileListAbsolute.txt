@@ -1,0 +1,14 @@
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\bin\Debug\netcoreapp2.1\ChatSystem.deps.json
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\bin\Debug\netcoreapp2.1\ChatSystem.runtimeconfig.json
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\bin\Debug\netcoreapp2.1\ChatSystem.runtimeconfig.dev.json
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\bin\Debug\netcoreapp2.1\ChatSystem.dll
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\bin\Debug\netcoreapp2.1\ChatSystem.pdb
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.csprojAssemblyReference.cache
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.RazorAssemblyInfo.cache
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.RazorAssemblyInfo.cs
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.AssemblyInfoInputs.cache
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.AssemblyInfo.cs
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.RazorTargetAssemblyInfo.cache
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.dll
+C:\Users\Tonny\source\repos\ChatSystem\ChatSystem\obj\Debug\netcoreapp2.1\ChatSystem.pdb
